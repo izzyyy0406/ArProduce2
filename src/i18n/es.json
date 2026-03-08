@@ -1,0 +1,80 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "products": "Productos",
+      "quality": "Calidad",
+      "contact": "Contacto"
+    },
+    "home": {
+      "hero_title": "Frescura del Campo a tu Mesa",
+      "hero_subtitle": "Frutas y verduras de calidad premium importadas directamente a EE. UU.",
+      "hero_btn": "Ver Productos",
+      "benefits_title": "Por Qué Elegirnos",
+      "benefit_1_title": "Entregas Confiables",
+      "benefit_1_desc": "Rutas seguras y llegada a tiempo garantizada.",
+      "benefit_2_title": "Calidad Garantizada",
+      "benefit_2_desc": "Productos seleccionados directamente del campo.",
+      "benefit_3_title": "Exportación Internacional",
+      "benefit_3_desc": "Cumpliendo con estándares sanitarios.",
+      "products_intro_title": "Nuestra Selección Premium",
+      "products_intro_desc": "Descubre nuestra amplia variedad de frutas frescas, verduras crujientes y soluciones de empaque de alta calidad.",
+      "about_mini_title": "Quiénes Somos",
+      "about_mini_desc": "AR Produce and Trucking se dedica a llevar lo mejor de la naturaleza a tu negocio. Con años de experiencia en importación y logística, aseguramos excelencia en cada envío.",
+      "about_btn": "Conoce Más Sobre Nosotros",
+      "contact_cta_title": "¿Listo para Empezar?",
+      "contact_cta_desc": "Ponte en contacto con nuestro equipo hoy para discutir tus necesidades de productos.",
+      "contact_btn": "Contáctanos Ahora"
+    },
+    "about": {
+      "title": "Sobre AR Produce and Trucking",
+      "history_title": "Nuestra Historia",
+      "history_desc": "Fundada con pasión por la calidad y los productos frescos, AR Produce and Trucking ha crecido hasta convertirse en un importador líder de frutas y verduras en los Estados Unidos. Nuestro viaje comenzó con un objetivo simple: cerrar la brecha entre agricultores dedicados y empresas que buscan los mejores productos.",
+      "mission_title": "Nuestra Misión",
+      "mission_desc": "Proporcionar a nuestros clientes productos frescos de la más alta calidad, asegurando una entrega confiable y un servicio excepcional mientras fomentamos relaciones sostenibles con nuestros cultivadores.",
+      "vision_title": "Nuestra Visión",
+      "vision_desc": "Ser el socio más confiable y preferido en la industria de importación y distribución de productos, reconocidos por nuestro compromiso con la calidad, la integridad y la innovación."
+    },
+    "products": {
+      "title": "Nuestros Productos",
+      "search_placeholder": "Buscar productos...",
+      "category_all": "Todos",
+      "category_fruits": "Frutas",
+      "category_vegetables": "Verduras",
+      "category_packaging": "Empaques",
+      "view_recipe": "Ver Receta",
+      "view_details": "Ver Detalles",
+      "cta_title": "¿No encuentras lo que buscas?",
+      "cta_desc": "Contáctanos para pedidos especiales o al por mayor.",
+      "cta_btn": "Contáctanos"
+    },
+    "quality": {
+      "title": "Garantía de Calidad",
+      "subtitle": "Nuestro Compromiso con la Excelencia",
+      "desc": "Nos adherimos a los más altos estándares internacionales para asegurar que cada producto que entregamos cumpla con estrictos requisitos de calidad y seguridad.",
+      "cert_1": "Global G.A.P.",
+      "cert_2": "USDA Orgánico",
+      "cert_3": "Aprobado por la FDA"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "subtitle": "Nos encantaría saber de ti",
+      "form_name": "Nombre",
+      "form_email": "Correo Electrónico",
+      "form_subject": "Asunto",
+      "form_message": "Mensaje",
+      "form_submit": "Enviar Mensaje",
+      "info_title": "Información de Contacto",
+      "address": "123 Produce Lane, Fresh City, CA 90210",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@arproduce.com"
+    },
+    "footer": {
+      "desc": "Importando las mejores frutas y verduras a EE. UU.",
+      "quick_links": "Enlaces Rápidos",
+      "contact_us": "Contáctanos",
+      "rights": "© 2024 AR Produce and Trucking. Todos los derechos reservados."
+    }
+  }
+}

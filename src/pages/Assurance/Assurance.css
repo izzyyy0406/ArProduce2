@@ -1,0 +1,234 @@
+/* =========================
+   VARIABLES
+========================= */
+
+:root{
+  --green-main:#369f4d;
+  --green-dark:#0f3d2e;
+  --green-soft:#eaf8ee;
+
+  --gray:#64748b;
+  --dark:#0f172a;
+
+  --radius-lg:28px;
+  --radius-md:18px;
+
+  --shadow-soft:0 10px 30px rgba(0,0,0,0.05);
+  --shadow-hover:0 20px 40px rgba(0,0,0,0.1);
+
+  --transition:all .35s ease;
+}
+
+/* =========================
+   PAGE
+========================= */
+
+.assurance-page{
+  background:#f8fafc;
+}
+
+/* =========================
+   HERO
+========================= */
+
+.assurance-hero{
+
+  position:relative;
+
+  padding:140px 20px 120px;
+
+  text-align:center;
+
+  color:white;
+
+  overflow:hidden;
+
+  background:
+  linear-gradient(120deg,#0f3d2e,#1f7a45);
+}
+
+.hero-bg{
+
+  position:absolute;
+  width:400px;
+  height:400px;
+
+  background:#facc15;
+
+  opacity:.1;
+
+  border-radius:50%;
+
+  filter:blur(120px);
+
+  top:-100px;
+  right:-120px;
+}
+
+.assurance-hero-content{
+  position:relative;
+  max-width:800px;
+  margin:auto;
+}
+
+.assurance-hero h1{
+  font-size:3.5rem;
+  font-weight:700;
+  margin-bottom:20px;
+}
+
+.assurance-hero p{
+  font-size:1.2rem;
+  color:#d1fae5;
+}
+
+/* =========================
+   INTRO
+========================= */
+
+.assurance-intro{
+  max-width:900px;
+  margin:auto;
+  text-align:center;
+  padding:80px 20px 40px;
+}
+
+.assurance-intro p{
+  font-size:1.1rem;
+  line-height:1.8;
+  color:var(--gray);
+}
+
+/* =========================
+   CERTIFICATES
+========================= */
+
+.certificates-section{
+  padding:60px 20px 120px;
+}
+
+.certificates-grid{
+
+  max-width:1200px;
+  margin:auto;
+
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+  gap:40px;
+}
+
+/* CARD */
+
+.certificate-card{
+
+  background:white;
+
+  border-radius:var(--radius-lg);
+
+  padding:40px;
+
+  text-align:center;
+
+  box-shadow:var(--shadow-soft);
+
+  border:1px solid #e5e7eb;
+
+  transition:var(--transition);
+}
+
+.certificate-card:hover{
+
+  transform:translateY(-10px);
+
+  box-shadow:var(--shadow-hover);
+}
+
+/* ICON */
+
+.cert-icon{
+
+  width:80px;
+  height:80px;
+
+  margin:auto;
+
+  border-radius:20px;
+
+  background:linear-gradient(135deg,#eaf8ee,#fef9c3);
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  color:var(--green-main);
+
+  margin-bottom:20px;
+}
+
+/* TITLE */
+
+.certificate-card h3{
+  font-size:1.4rem;
+  color:var(--dark);
+  margin-bottom:20px;
+}
+
+/* IMAGE */
+
+.certificate-card img{
+
+  width:100%;
+  height:180px;
+
+  object-fit:cover;
+
+  border-radius:14px;
+
+  margin-bottom:20px;
+}
+
+/* BUTTON */
+
+.cert-btn{
+
+  background:none;
+
+  border:none;
+
+  color:var(--green-main);
+
+  font-weight:600;
+
+  cursor:pointer;
+
+  transition:var(--transition);
+}
+
+.cert-btn:hover{
+  opacity:.8;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media(max-width:900px){
+
+.assurance-hero h1{
+  font-size:2.6rem;
+}
+
+}
+
+@media(max-width:600px){
+
+.assurance-hero{
+  padding:110px 20px 90px;
+}
+
+.certificates-section{
+  padding:40px 20px 80px;
+}
+
+}

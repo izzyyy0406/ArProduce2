@@ -1,0 +1,80 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "quality": "Quality Assurance",
+      "contact": "Contact"
+    },
+    "home": {
+      "hero_title": "Freshness from the Field to Your Table",
+      "hero_subtitle": "Premium quality fruits and vegetables imported directly to the US.",
+      "hero_btn": "View Products",
+      "benefits_title": "Why Choose Us",
+      "benefit_1_title": "Reliable Deliveries",
+      "benefit_1_desc": "Secure routes and guaranteed on-time arrival.",
+      "benefit_2_title": "Guaranteed Quality",
+      "benefit_2_desc": "Products selected directly from the field.",
+      "benefit_3_title": "International Export",
+      "benefit_3_desc": "Complying with sanitary standards.",
+      "products_intro_title": "Our Premium Selection",
+      "products_intro_desc": "Discover our wide variety of fresh fruits, crisp vegetables, and high-quality packaging solutions.",
+      "about_mini_title": "Who We Are",
+      "about_mini_desc": "AR Produce and Trucking is dedicated to bringing the best of nature to your business. With years of experience in import and logistics, we ensure excellence in every shipment.",
+      "about_btn": "Learn More About Us",
+      "contact_cta_title": "Ready to Start?",
+      "contact_cta_desc": "Get in touch with our team today to discuss your produce needs.",
+      "contact_btn": "Contact Us Now"
+    },
+    "about": {
+      "title": "About AR Produce and Trucking",
+      "history_title": "Our History",
+      "history_desc": "Founded with a passion for quality and fresh produce, AR Produce and Trucking has grown into a leading importer of fruits and vegetables in the United States. Our journey began with a simple goal: to bridge the gap between dedicated farmers and businesses seeking the finest produce.",
+      "mission_title": "Our Mission",
+      "mission_desc": "To provide our customers with the highest quality fresh produce, ensuring reliable delivery and exceptional service while fostering sustainable relationships with our growers.",
+      "vision_title": "Our Vision",
+      "vision_desc": "To be the most trusted and preferred partner in the produce import and distribution industry, recognized for our commitment to quality, integrity, and innovation."
+    },
+    "products": {
+      "title": "Our Products",
+      "search_placeholder": "Search products...",
+      "category_all": "All",
+      "category_fruits": "Fruits",
+      "category_vegetables": "Vegetables",
+      "category_packaging": "Packaging",
+      "view_recipe": "View Recipe",
+      "view_details": "View Details",
+      "cta_title": "Can't find what you're looking for?",
+      "cta_desc": "Contact us for special requests or bulk orders.",
+      "cta_btn": "Contact Us"
+    },
+    "quality": {
+      "title": "Quality Assurance",
+      "subtitle": "Our Commitment to Excellence",
+      "desc": "We adhere to the highest international standards to ensure that every product we deliver meets strict quality and safety requirements.",
+      "cert_1": "Global G.A.P.",
+      "cert_2": "USDA Organic",
+      "cert_3": "FDA Approved"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We'd love to hear from you",
+      "form_name": "Name",
+      "form_email": "Email",
+      "form_subject": "Subject",
+      "form_message": "Message",
+      "form_submit": "Send Message",
+      "info_title": "Contact Information",
+      "address": "123 Produce Lane, Fresh City, CA 90210",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@arproduce.com"
+    },
+    "footer": {
+      "desc": "Importing the finest fruits and vegetables to the US.",
+      "quick_links": "Quick Links",
+      "contact_us": "Contact Us",
+      "rights": "© 2024 AR Produce and Trucking. All rights reserved."
+    }
+  }
+}

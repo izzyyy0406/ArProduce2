@@ -1,0 +1,80 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À Propos",
+      "products": "Produits",
+      "quality": "Qualité",
+      "contact": "Contact"
+    },
+    "home": {
+      "hero_title": "La Fraîcheur du Champ à Votre Table",
+      "hero_subtitle": "Fruits et légumes de qualité supérieure importés directement aux États-Unis.",
+      "hero_btn": "Voir les Produits",
+      "benefits_title": "Pourquoi Nous Choisir",
+      "benefit_1_title": "Livraisons Fiables",
+      "benefit_1_desc": "Itinéraires sécurisés et arrivée à temps garantie.",
+      "benefit_2_title": "Qualité Garantie",
+      "benefit_2_desc": "Produits sélectionnés directement du champ.",
+      "benefit_3_title": "Exportation Internationale",
+      "benefit_3_desc": "Conforme aux normes sanitaires.",
+      "products_intro_title": "Notre Sélection Premium",
+      "products_intro_desc": "Découvrez notre grande variété de fruits frais, de légumes croquants et de solutions d'emballage de haute qualité.",
+      "about_mini_title": "Qui Sommes-Nous",
+      "about_mini_desc": "AR Produce and Trucking se consacre à apporter le meilleur de la nature à votre entreprise. Avec des années d'expérience dans l'importation et la logistique, nous assurons l'excellence dans chaque expédition.",
+      "about_btn": "En Savoir Plus Sur Nous",
+      "contact_cta_title": "Prêt à Commencer ?",
+      "contact_cta_desc": "Contactez notre équipe dès aujourd'hui pour discuter de vos besoins en produits.",
+      "contact_btn": "Contactez-Nous Maintenant"
+    },
+    "about": {
+      "title": "À Propos de AR Produce and Trucking",
+      "history_title": "Notre Histoire",
+      "history_desc": "Fondée avec une passion pour la qualité et les produits frais, AR Produce and Trucking est devenue un importateur de premier plan de fruits et légumes aux États-Unis. Notre voyage a commencé avec un objectif simple : combler le fossé entre les agriculteurs dévoués et les entreprises à la recherche des meilleurs produits.",
+      "mission_title": "Notre Mission",
+      "mission_desc": "Fournir à nos clients des produits frais de la plus haute qualité, en assurant une livraison fiable et un service exceptionnel tout en favorisant des relations durables avec nos producteurs.",
+      "vision_title": "Notre Vision",
+      "vision_desc": "Être le partenaire le plus fiable et préféré dans l'industrie de l'importation et de la distribution de produits, reconnu pour notre engagement envers la qualité, l'intégrité et l'innovation."
+    },
+    "products": {
+      "title": "Nos Produits",
+      "search_placeholder": "Rechercher des produits...",
+      "category_all": "Tous",
+      "category_fruits": "Fruits",
+      "category_vegetables": "Légumes",
+      "category_packaging": "Emballage",
+      "view_recipe": "Voir la Recette",
+      "view_details": "Voir les Détails",
+      "cta_title": "Vous ne trouvez pas ce que vous cherchez ?",
+      "cta_desc": "Contactez-nous pour des demandes spéciales ou des commandes en gros.",
+      "cta_btn": "Contactez-Nous"
+    },
+    "quality": {
+      "title": "Assurance Qualité",
+      "subtitle": "Notre Engagement envers l'Excellence",
+      "desc": "Nous adhérons aux normes internationales les plus élevées pour garantir que chaque produit que nous livrons répond à des exigences strictes en matière de qualité et de sécurité.",
+      "cert_1": "Global G.A.P.",
+      "cert_2": "USDA Biologique",
+      "cert_3": "Approuvé par la FDA"
+    },
+    "contact": {
+      "title": "Contactez-Nous",
+      "subtitle": "Nous aimerions avoir de vos nouvelles",
+      "form_name": "Nom",
+      "form_email": "E-mail",
+      "form_subject": "Sujet",
+      "form_message": "Message",
+      "form_submit": "Envoyer le Message",
+      "info_title": "Coordonnées",
+      "address": "123 Produce Lane, Fresh City, CA 90210",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@arproduce.com"
+    },
+    "footer": {
+      "desc": "Importation des meilleurs fruits et légumes aux États-Unis.",
+      "quick_links": "Liens Rapides",
+      "contact_us": "Contactez-Nous",
+      "rights": "© 2024 AR Produce and Trucking. Tous droits réservés."
+    }
+  }
+}
