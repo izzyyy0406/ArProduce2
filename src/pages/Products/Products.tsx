@@ -6,7 +6,7 @@ import { supabase } from "../../lib/supabase";
 import "./Products.css";
 
 type Product = {
-  id: number;
+  id: string;
   name: string;
   category: string;
   intro_description: string;
